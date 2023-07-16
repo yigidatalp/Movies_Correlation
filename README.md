@@ -1,4 +1,4 @@
-# Movies_Correlation_With_Python
+# Movies_Correlation
 In this project, I used the data from movies dataset in Kaggle and analyzed what variables affect the gross revenue. 
 Then, I created a correlation matrix heatmap and regression plot by using matplotlib and seaborn. 
 Also, I processed data by converting all non-numeric variables into numeric ones and then normalized this converted data. 
